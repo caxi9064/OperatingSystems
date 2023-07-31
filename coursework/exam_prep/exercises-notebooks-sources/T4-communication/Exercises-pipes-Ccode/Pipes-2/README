@@ -1,0 +1,18 @@
+1. Compile and execute the programs in the following order:
+
+oneprocesspipe 
+fatherchildpipe 
+childrenpipe 
+redirpipe
+
+2. Explain shortly what each program does. 
+
+
+3. What happens if you uncomment the line 39 ( //close(p[0]);) from childrenpipe.c program? Discover why and explain shortly. 
+
+
+
+
+
+
+
